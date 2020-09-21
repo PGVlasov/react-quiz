@@ -1,0 +1,14 @@
+.Input {
+  margin-bottom: 15px;
+}
+.Input label {
+  margin-bottom: 3px;
+  padding: 0;
+  display: block;
+  font-weight: bold;
+}
+.Input input {
+  display: block;
+  box-sizing: border-box;
+  border: 1px solid #bebebe;
+}
